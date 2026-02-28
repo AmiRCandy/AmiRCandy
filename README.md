@@ -20,8 +20,7 @@ I'm Amir, a passionate programmer with experience in multiple languages, includi
 - Mechanical Engineering (MEXT Scholarship Preparation)  
 
 ## 💡 Let's Connect!
-- 🌍 -
-- 📬 amirhosen.1385.cmo@gmail.com
+- 🌍 - AmiRCnndy.me
 - 🏗️ Check out my projects on [GitHub](https://github.com/AmiRCandy)
 
 ---
